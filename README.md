@@ -258,6 +258,6 @@ Share with anyone learning AI/ML/LLM technologies.
 
 ---
 
-**Created and Maintained by**: Devi sri Prasad Nakka
+**Created and Maintained by**: Devi Sri Prasad Nakka
 
 *Last Updated: December 2024*
